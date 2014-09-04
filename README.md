@@ -1,3 +1,10 @@
+---
+tags: resources, ruby, kids
+language: ruby
+level: 1
+type: resources
+---
+
 # GIVE ME MOAR RUBY!!!
 
 All right, all right, all right.
