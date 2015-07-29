@@ -1,9 +1,4 @@
----
-tags: resources, ruby, kids
-language: ruby
-level: 1
-type: resources
----
+
 
 ## GIVE ME MOAR RUBY!!!
 <img src="https://s3.amazonaws.com/after-school-assets/moar.jpg" width="400">
